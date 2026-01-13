@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "test-post-1",
+    "brandId": "rick-owens",
+    "title": "Rick Owens — Test Collection",
+    "season": "FW26",
+    "city": "paris",
+    "date": "2026-03-05",
+    "sourceUrl": "https://www.rickowens.eu/",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rick_Owens_logo.png",
+    "media": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/Rick_Owens_logo.png"
+    ],
+    "tags": ["runway"]
+  }
+]
